@@ -1,7 +1,19 @@
-h1, h2, p{
-	text-align: center;
+p{
+	 font-size: 20px;
+	 font-family: 'Arial';
 }
 
+a:link {
+	font-size: 30px;
+	font-family: Arial Black;
+	color: white;
+}
+a:hover {
+	font-size:33px;
+} 
+a:visited {
+	color: white;
+}
 body {
 	text-align: center;
 	background-color: #bd9be8;
